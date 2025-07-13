@@ -22,28 +22,28 @@ na plataforma [LeetCode](https://leetcode.com).
 
 | Exercício                                                                                                                                           | Aluno                                   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
-|**Difícil**    [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)  | [João Marcos](https://github.com/JJOAOMARCOSS)    |
-|**Difícil**    [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) | [João Marcos](https://github.com/JJOAOMARCOSS)    |                                            
-| **Médio**   [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)                               | [João Marcos](https://github.com/JJOAOMARCOSS)    |
-|**Difícil**    [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                            | [Christopher Escobar](https://github.com/wChrstphr)    |
+|**Difícil**    [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)  | [João Marcos](https://github.com/JJOAOMARCOSS)    |
+|**Difícil**    [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/) | [João Marcos](https://github.com/JJOAOMARCOSS)    |                                            
+| **Médio**   [322. Coin Change](https://leetcode.com/problems/coin-change/description/)                               | [João Marcos](https://github.com/JJOAOMARCOSS)    |
+|**Difícil**    []()                                            | [Christopher Escobar](https://github.com/wChrstphr)    |
 
 ## Screenshots
-### [493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)
-![493](/assets/493.png)
-![Resposta](/assets/493-res.png)
+### [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/reverse-pairs/description/)
+![1235](/assets/1235.png)
+![Resposta](/assets/1235_res.png)
 
-### [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
-![315](/assets/315.png)
-![315](/assets/315-res.png)
+### [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/)
+![1751](/assets/1751.png)
+![Resposta](/assets/1751_res.png)
 
-### [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
-![215](/assets/215.png)
-![215](/assets/215-res.png)
+### [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
+![322](/assets/322.png)
+![Resposta](/assets/322_res.png)
 
 
-### [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-![4](/assets/4.png)
-![4](/assets/4-res.png)
+### []()
+![]()
+![]()
 
 
 ## Vídeo
