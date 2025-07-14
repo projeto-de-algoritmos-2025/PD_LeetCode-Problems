@@ -25,7 +25,7 @@ na plataforma [LeetCode](https://leetcode.com).
 |**Difícil**    [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/)  | [João Marcos](https://github.com/JJOAOMARCOSS)    |
 |**Difícil**    [1751. Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/) | [João Marcos](https://github.com/JJOAOMARCOSS)    |                                            
 | **Médio**   [322. Coin Change](https://leetcode.com/problems/coin-change/description/)                               | [João Marcos](https://github.com/JJOAOMARCOSS)    |
-|**Difícil**    []()                                            | [Christopher Escobar](https://github.com/wChrstphr)    |
+|**Difícil**    [188. Best Time to Buy and Sell Stock IV]()                                            | [Christopher Escobar](https://github.com/wChrstphr)    |
 
 ## Screenshots
 ### [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/reverse-pairs/description/)
@@ -40,11 +40,9 @@ na plataforma [LeetCode](https://leetcode.com).
 ![322](/assets/322.png)
 ![Resposta](/assets/322_res.png)
 
-
-### []()
-![]()
-![]()
-
+### [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
+![188](/assets/188.png)
+![Resposta](/assets/188_res.png)
 
 ## Vídeo
 
